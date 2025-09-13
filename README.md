@@ -339,3 +339,7 @@ if __name__ == "__main__":
 ```
 
 [![Video Title](https://img.youtube.com/vi/Fs4v-cfJXxY/0.jpg)](https://www.youtube.com/watch?v=Fs4v-cfJXxY)
+
+WE WILL USE THE PERPLEXITIES
+
+WE WILL TRASCEND THE THEORIES OF LEARNING
